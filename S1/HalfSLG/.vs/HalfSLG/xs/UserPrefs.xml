@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7B158269-59F2-619D-670E-E07D26D55164}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HalfSLG/Scripts/Utility/EGameConstL.cs">
+    <Files>
+      <File FileName="Assets/HalfSLG/Scripts/Utility/EGameConstL.cs" Line="11" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c98301b8-427c-4723-b7be-ea72d710b32a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

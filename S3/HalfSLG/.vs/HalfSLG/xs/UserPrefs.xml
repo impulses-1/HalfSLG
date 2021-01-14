@@ -1,15 +1,41 @@
 ﻿<Properties StartupConfiguration="{7B158269-59F2-619D-670E-E07D26D55164}|">
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HalfSLG/Scripts/Battle/DataRenderer/BattleUnitRenderer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HalfSLG/Scripts/Utility/UtilityHelper.cs">
     <Files>
-      <File FileName="Assets/HalfSLG/Scripts/Battle/DataRenderer/BattleUnitRenderer.cs" Line="224" Column="62" />
-      <File FileName="Assets/HalfSLG/Scripts/Msg/GameMsg.cs" Line="62" Column="18" />
+      <File FileName="Assets/HalfSLG/Scripts/Main.cs" Line="15" Column="34" />
+      <File FileName="Assets/HalfSLG/Scripts/Utility/UtilitySingleton.cs" Line="29" Column="59" />
+      <File FileName="Assets/HalfSLG/Scripts/Utility/UtilityHelper.cs" Line="21" Column="41" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HalfSLG" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="HalfSLG" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Base" expanded="True" />
+                  <Node name="Battle" expanded="True">
+                    <Node name="Data" expanded="True" />
+                    <Node name="DataRenderer" expanded="True" />
+                  </Node>
+                  <Node name="Controller" expanded="True" />
+                  <Node name="Manager" expanded="True" />
+                  <Node name="Msg" expanded="True" />
+                  <Node name="Utility" expanded="True">
+                    <Node name="UtilityHelper.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="54fe29d1-9635-4113-93d6-b065ea815b49" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
